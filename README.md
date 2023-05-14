@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-#Portfolio-Blog-website-using-HTML-CSS-JS-PHP-MYSQL-with-laravel-8
+#Blog-website-using-HTML-CSS-JS-PHP-MYSQL-with-laravel-8
 You make sure you update the database credentials
 Change the name of the database
 Change the username
